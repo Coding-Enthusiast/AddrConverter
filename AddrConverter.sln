@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddrConverter", "AddrConverter\AddrConverter.csproj", "{1FFE7674-69EE-41B7-8000-F27B01F91530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFE7674-69EE-41B7-8000-F27B01F91530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFE7674-69EE-41B7-8000-F27B01F91530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFE7674-69EE-41B7-8000-F27B01F91530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFE7674-69EE-41B7-8000-F27B01F91530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9CE6C6D-A3E1-4B50-8ADF-B9CB3C81B573}
+	EndGlobalSection
+EndGlobal
